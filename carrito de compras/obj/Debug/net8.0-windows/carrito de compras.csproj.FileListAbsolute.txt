@@ -1,6 +1,17 @@
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\bin\Debug\net8.0-windows\carrito de compras.exe
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\bin\Debug\net8.0-windows\carrito de compras.deps.json
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\bin\Debug\net8.0-windows\carrito de compras.runtimeconfig.json
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\bin\Debug\net8.0-windows\carrito de compras.dll
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\bin\Debug\net8.0-windows\carrito de compras.pdb
 C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito_de_compras.Form1.resources
 C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.csproj.GenerateResource.cache
 C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.AssemblyInfoInputs.cache
 C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.AssemblyInfo.cs
 C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.sourcelink.json
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.dll
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\refint\carrito de compras.dll
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.pdb
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\ref\carrito de compras.dll

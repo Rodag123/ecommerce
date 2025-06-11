@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\ASUS\Documents\CSHARP\Form1.cs" Link="Form1.cs" />
+    <Compile Include="C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\Form1.cs" Link="Form1.cs" />
   </ItemGroup>
 
 </Project>
