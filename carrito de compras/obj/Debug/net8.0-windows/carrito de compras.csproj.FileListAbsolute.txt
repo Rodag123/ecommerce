@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito_de_compras.Form1.resources
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\carrito de compras\carrito de compras\obj\Debug\net8.0-windows\carrito de compras.csproj.CoreCompileInputs.cache
