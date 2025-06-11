@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A70BDE4-3085-4FD4-949A-2C8689CA139E}|carrito de compras\\carrito de compras.csproj|c:\\users\\asus\\source\\repos\\carrito de compras\\carrito de compras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A70BDE4-3085-4FD4-949A-2C8689CA139E}|carrito de compras\\carrito de compras.csproj|solutionrelative:carrito de compras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A70BDE4-3085-4FD4-949A-2C8689CA139E}|carrito de compras\\carrito de compras.csproj|C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A70BDE4-3085-4FD4-949A-2C8689CA139E}|carrito de compras\\carrito de compras.csproj|solutionrelative:carrito de compras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9A70BDE4-3085-4FD4-949A-2C8689CA139E}|carrito de compras\\carrito de compras.csproj|c:\\users\\asus\\source\\repos\\carrito de compras\\carrito de compras\\carrito de compras.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A70BDE4-3085-4FD4-949A-2C8689CA139E}|carrito de compras\\carrito de compras.csproj|solutionrelative:carrito de compras\\carrito de compras.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A70BDE4-3085-4FD4-949A-2C8689CA139E}|carrito de compras\\carrito de compras.csproj|c:\\users\\asus\\source\\repos\\carrito de compras\\carrito de compras\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,49 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 39,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "carrito de compras",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\carrito de compras.csproj",
+              "RelativeDocumentMoniker": "carrito de compras\\carrito de compras.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\carrito de compras.csproj",
+              "RelativeToolTip": "carrito de compras\\carrito de compras.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T23:37:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\Producto.cs",
               "RelativeDocumentMoniker": "carrito de compras\\Producto.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\Producto.cs",
               "RelativeToolTip": "carrito de compras\\Producto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T22:44:07.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\Form1.cs",
-              "RelativeDocumentMoniker": "carrito de compras\\Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\Form1.cs*",
-              "RelativeToolTip": "carrito de compras\\Form1.cs*",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAI8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T22:42:53.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\Form1.cs",
-              "RelativeDocumentMoniker": "carrito de compras\\Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\Form1.cs [Design]",
-              "RelativeToolTip": "carrito de compras\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T22:31:55.204Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\carrito de compras\\carrito de compras\\Program.cs",
               "RelativeDocumentMoniker": "carrito de compras\\Program.cs",
@@ -76,8 +60,7 @@
               "RelativeToolTip": "carrito de compras\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T22:23:40.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T22:23:40.154Z"
             }
           ]
         },
