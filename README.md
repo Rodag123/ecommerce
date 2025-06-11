@@ -1,2 +1,2 @@
-# DaprCall2Srv
-Servicio basado en Dapr que llama a un servicio sin Dapr
+# ecommerce
+Programa que simula un ecommerce
